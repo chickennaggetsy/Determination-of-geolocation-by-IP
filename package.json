@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.hmtl --out-dir=build"
+  },
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  }
+}
